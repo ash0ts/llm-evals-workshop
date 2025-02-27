@@ -2,7 +2,7 @@
 
 A workshop project demonstrating how to build and evaluate LLM-powered classification systems using real-world data from Bluesky social network.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/altryne/llm-evals-workshop/blob/main/eval.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ash0ts/llm-evals-workshop/blob/main/eval.ipynb) 
 
 ## Overview
 
@@ -20,7 +20,7 @@ You can run this workshop directly in Colab by clicking the badge above. To run 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/altryne/llm-evals-workshop
+git clone https://github.com/ash0ts/llm-evals-workshop
 ```
 
 2. Install dependencies:
