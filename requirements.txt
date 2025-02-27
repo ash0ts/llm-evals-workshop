@@ -7,3 +7,4 @@ ipywidgets
 requests 
 openai 
 pillow
+google-generativeai
